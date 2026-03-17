@@ -47,4 +47,4 @@ The "Profile" button makes that specific card into the users profile picture and
 
 Enjoy viewing and creating your own collections
 
-Alexander Leuschner
+Created by: Alexander Leuschner
